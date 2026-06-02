@@ -22,6 +22,10 @@
   </tr>
 </table>
 
+> [!IMPORTANT]
+> ### 这是一个工具，不是一个许愿池
+> 别指望一把就给你一份完美的成品 PPT。它真正的价值是帮你把大部分枯燥的活儿干掉，剩下的打磨仍要你自己来——模型越便宜，要补的人工就越多。成品好不好，最终取决于你操作这个项目和 PPT 的能力。
+
 <p align="center">
   <a href="https://hugohe3.github.io/ppt-master/"><strong>在线预览</strong></a> ·
   <a href="https://www.hehugo.com/"><strong>关于何雨果</strong></a> ·
